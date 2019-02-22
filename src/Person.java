@@ -5,5 +5,8 @@ public class Person {
     private String lastname;
 
     //todo - dodaj cos
+
+    //todo - dodaj cos jeszcze
+
     
 }
